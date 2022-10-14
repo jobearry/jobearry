@@ -13,11 +13,3 @@ I have knowledge in some of the languages listed below:
   <li>VB.NET</li>
   <li>Python</li>
 </ul>
-
-I also have knowledge using editing and drawing softwares such as:
-
-<ul>
-  <li>Photoshop, Illustrator, Premier</li>
-  <li>Figma, Penpot</li>
-  <li>SolidWorks</li>
-</ul>
