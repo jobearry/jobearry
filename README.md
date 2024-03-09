@@ -1,6 +1,6 @@
 # Than
 
-Hi! I go by the name "Rasz" and I am from the Philippines.
+Hi! I am from the Philippines.
 
 I am interested in designing the web and designs in general, I also enjoy programming.
 Currently, I work as a Junior Programmer in a manufacturing company where I have tasks
