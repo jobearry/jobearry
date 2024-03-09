@@ -1,4 +1,4 @@
-# Raszpberry
+# Than
 
 Hi! I go by the name "Rasz" and I am from the Philippines.
 
