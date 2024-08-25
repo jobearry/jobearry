@@ -10,4 +10,4 @@ I currently use C# for the majority of my projects, but right now I am learning 
 Will be adding more projects here soon.
 <br> Cheers! :beer:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranthanz&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobearry&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
