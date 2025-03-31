@@ -6,7 +6,7 @@ I am from the Philippines!  Currently, I work as a Junior Programmer in a manufa
 where I have tasks related to automation and web development.  
 I use C#, and Angular for the majority of my projects.
 
-In addition, I am also learning React, and TailwinCSS through Frontend Mentor Challenges.  
+In addition, I am also learning React, and TailwindCSS through Frontend Mentor Challenges.  
 I am also planning to learn NextJS after I fully grasped the basics with React.
 
 Will be adding more projects here soon.  
