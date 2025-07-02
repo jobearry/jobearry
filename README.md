@@ -2,12 +2,8 @@
 ###### Jobearry || We love berries
 
 Hi!  
-I am from the Philippines!  Currently, I work as a Junior Programmer in a manufacturing company   
-where I have tasks related to automation and web development.  
-I use C#, and Angular for the majority of my projects.
-
-In addition, I am also learning React, and TailwindCSS through Frontend Mentor Challenges.  
-I am also planning to learn NextJS after I fully grasped the basics with React.
+I am from the Philippines!  I currently work as a Junior Programmer in a manufacturing company   
+where I have tasks related to Windows and web development where I use C#, and Angular for the majority of my projects.
 
 Will be adding more projects here soon.  
 Cheers! :beer:
