@@ -1,8 +1,5 @@
 
-###### Jobearry || Continuous learning
-
-Hi!  
-I am a Fullstack developer from the Philippines!
+###### Jobearry || Continuous learning  
 
 Have a look at my projects!  
 Cheers! :beer:
