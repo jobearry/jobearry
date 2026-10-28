@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: update-readme-stats
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,10 +22,21 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact
+          options: "username=${{ github.repository_owner }}&layout=compact"
           path: assets/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+
+      # Guard against committing an empty/placeholder SVG if the card renderer
+      # returns something invalid without reporting an error.
+      - name: Validate card
+        run: |
+          test -s assets/top-langs.svg
+          grep -q "<svg" assets/top-langs.svg
+          if [ "$(wc -c < assets/top-langs.svg)" -lt 200 ]; then
+            echo "Generated card looks empty; refusing to commit."
+            exit 1
+          fi
 
       - name: Commit card
         run: |
