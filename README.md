@@ -24,4 +24,4 @@
 ![arch_linux](https://img.shields.io/badge/arch_linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 ---
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jobearry&layout=compact&theme=radical)](#)
+![Top Languages](./assets/top-langs.svg)
